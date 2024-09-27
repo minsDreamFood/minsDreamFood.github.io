@@ -1,5 +1,5 @@
 ---
-title:  美國肋眼牛排（Ribeye Steak）教學課程
+title: 美國肋眼牛排（Ribeye Steak）教學課程
 date: 2023-03-13 19:00:00 +0800
 categories: [食譜, 西餐]
 tags: [牛] 

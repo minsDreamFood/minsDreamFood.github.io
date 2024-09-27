@@ -1,5 +1,5 @@
 ---
-title:  西班牙海鮮飯（Paella）教學課程
+title: 西班牙海鮮飯（Paella）教學課程
 date: 2023-03-11 19:00:00 +0800
 categories: [食譜, 西餐]
 tags: [海鮮,飯] 

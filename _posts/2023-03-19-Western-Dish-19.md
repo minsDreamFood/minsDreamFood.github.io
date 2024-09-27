@@ -1,5 +1,5 @@
 ---
-title:  希臘燒烤章魚（Grilled Octopus）教學課程
+title: 希臘燒烤章魚（Grilled Octopus）教學課程
 date: 2023-03-19 19:00:00 +0800
 categories: [食譜, 西餐]
 tags: [海鮮] 
