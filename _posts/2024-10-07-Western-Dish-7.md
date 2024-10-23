@@ -1,5 +1,5 @@
 ---
-title: 瑞士烤馬鈴薯（Raclette）教學課程
+title: 法式野菇蘑菇塔（Quiche aux Champignons）教學課程
 date: 2024-10-07 19:00:00 +0800
 categories: [食譜, 西餐]
 tags: [法式,蘑菇] 
